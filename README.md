@@ -10,6 +10,16 @@
 #  构建设置  
 ```
 //克隆项目  
-git 克隆
+git 克隆 https://github.com/584276169/vue-ts-admin.git  
+
+#进入项目目录
+cd vue-ts-admin
+
+#安装依赖
+#你可以运行 npm install 来安装它  
+即插即用
+
+#开发
+npm run dev 运行开发
 ```
 
