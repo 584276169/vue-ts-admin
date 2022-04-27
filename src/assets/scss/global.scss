@@ -1,0 +1,30 @@
+$theme-color:#2d3a4b;
+
+
+.flex_center{
+display: flex;
+align-items: center;
+flex-wrap: wrap;
+}
+.flex_cneter_between{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.flex_center_end{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.el-menu{
+    border-right: 0;
+}
+.container{
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 3px;
+}
+
+
